@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
---- # Welcome to My Portfolio Hello! My name is IB.
+Welcome to My Portfolio Hello! My name is IB.
 ## Projects
 - Project 1: Description
 - Project 2: Description
