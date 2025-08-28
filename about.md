@@ -5,9 +5,11 @@ title: About Me
 # About Me
 Hello! I am IB.
 I like to listen to music and play video games with my friends. One of my goals are that I want to graduate high school. Another goal is that I want a high paying job that I actually have an actual interest in.
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5a45b58e-5d36-48b2-906b-bf5e836e3191" />
 
-**My Lifestyle & Career Alignment Research**
+**My Lifestyle & Career Alignment Research:**
+
 I plan to live in Las Vegas in a 2-story, 4-bedroom, 3-bathroom house, which I would rent due to high home prices. I'll drive an Infiniti (G37 or similar), using monthly payments, insurance, and premium gas. Monthly utilities will cost around $300, groceries $1,180, and health insurance about $488. I'll spend on entertainment ($75/month) and travel occasionally, mainly to Mexico ($250/month). I will pursue an HVAC certification ($10,000–$20,000), and aim to save 20% of my income each month.
 
 Estimated Costs:
