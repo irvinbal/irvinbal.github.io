@@ -98,7 +98,7 @@
 
 | Parameter | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 
-|      | The result a function gives back. | `return total;` |  |  |
+| Return | The result a function gives back. | `return total;` |  |  |
 
 |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
 
