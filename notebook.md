@@ -74,7 +74,7 @@
 
 
 
-## Flutter Definitions
+## Flutter Definitions with Structures
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 
@@ -128,7 +128,7 @@
 
 
 
-## Code Definition
+## Code Definitions
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 
