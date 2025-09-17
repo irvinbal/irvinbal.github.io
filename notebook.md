@@ -64,7 +64,7 @@
 
 ---
 
-### Layout and Design Widgets
+## Layout and Design Widgets
 - How do you center a widget?
 - How do you align something to the left or right?
 - What widget adds space around content?
