@@ -8,6 +8,7 @@
 -  [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
+
 ## Flutter Notes
 
 ### What is Flutter?
@@ -76,47 +77,47 @@
 
 |------|------------|--------------------------|-------------------|-------------|
 
-| Variable | A named container used to store a value that may change. | `var x = 5;` | score |  |
+| Variable | A named container used to store a value that may change. | `var x = 5;` | Score | User points|
 
-| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | PI Value | Max login attempts |
 
 | Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Video File | Powerpoint |
 
-| String | A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  |  |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  | Button label |
 
-| Integer | Whole number values. | `int age = 16;` | A streak |  |
+| Integer | Whole number values. | `int age = 16;` | A streak | Number of likes |
 
-| Double | Number values with decimals. | `double age = 16.2;` | Calculator  |  |
+| Double | Number values with decimals. | `double age = 16.2;` | Calculator  | App rating |
 
-| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? |  |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? | Dark mode on/off |
 
-| List | A collection of values in a specific order. | `List<String> names = [];` | Finding things easier  |  |
+| List | A collection of values in a specific order. | `List<String> names = [];` | Grocery List | Recent Searches  |
 
-| Null | A special value that means “nothing.” | `String? name = null;` | Search Bar |  |
+| Null | A special value that means “nothing.” | `String? name = null;` | Search Bar | No profile picture |
 
-| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on a light | Submit button action  |
 
-| Parameter | The information passed into a function to change how it works. | `greet(String name)` |  |  |
+| Parameter | The information passed into a function to change how it works. | `greet(String name)` | Name in a greeting | Username input |
 
-| Return | The result a function gives back. | `return total;` |  |  |
+| Return | The result a function gives back. | `return total;` | Total bill | Search results |
 
-|      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Room access | In-app notifications |
 
-|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Car model design | User profile structure  |
 
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
+| Object | A specific version of a class. | `Dog myDog = Dog();` | Any object | Logged-in user |
 
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
+| Property | A variable that belongs to a class/object. | `String name;` | Nickname | Username |
 
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
+| Method | A function that belongs to a class. | `void bark() {}` | Cookie being eaten | Logout function in app |
 
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | Building foundation | Intializing user profile |
 
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+|  Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | |  |
 
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+| Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+|  Void  | A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
