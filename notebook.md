@@ -80,31 +80,31 @@
 
 |------|----------------------------|----------------|-------------------|-------------|
 
-|      | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |  |
+| Main | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | Anything that can start |  |
 
-|      | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
+|  MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
 
-|      | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  |
+|   Scaffold   | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  |
 
-|      | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
+|   Columnn   | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
 
-|      | A widget that shows things side-by-side. | `Row(...)` |  |  |
+|  Row  | A widget that shows things side-by-side. | `Row(...)` |  |  |
 
-|      | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
+|  Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
 
-|      | A widget to display text on the screen. | `Text('Hello')` |  |  |
+|  Text  | A widget to display text on the screen. | `Text('Hello')` |  |  |
 
-|      | A widget to show an image using a link from the internet. | `Image.network('https://...')` |  |  |
+|  Image.network | A widget to show an image using a link from the internet. | `Image.network('https://...')` |  |  |
 
-|      | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` |  |  |
+|  ElevatedButton | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` |  |  |
 
-|      | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` |  |  |
+| onPressed | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` |  |  |
 
-|      | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` |  |  |
+| StainlessWidget | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` |  |  |
 
-|      | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
+|   StatefulWidget   | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
 
-|      | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
+|   Navigator   | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
 
 |      | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
 
