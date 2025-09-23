@@ -82,13 +82,13 @@
 |  MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  | return MaterialApp(debugShowCheckedModeBanner: false, title: 'TSA Portfolio', theme: ThemeData(|
 |   Scaffold   | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  In home.dart, return Scaffold(body: Center |
 |   Columnn   | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  | In home.dart (Column mainAxisAlignment: MainAxisAlignment.center, children: [ |
-|  Row  | A widget that shows things side-by-side. | `Row(...)` |  | In home.dart Container (|
-|  Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  In home.dart Container( width: 200, height: 200 |
-|  Text  | A widget to display text on the screen. | `Text('Hello')` |  |  |
-|  Image.network | A widget to show an image using a link from the internet. | `Image.network('https://...')` |  |  |
-|  ElevatedButton | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` |  |  |
-| onPressed | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` |  |  |
-| StainlessWidget | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` |  |  |
+|  Row  | A widget that shows things side-by-side. | `Row(...)` | People sitting side by side | Row(children: [ ClipRRect( borderRadius: BorderRadius.circular(8),child: Image.network(imageUrl, width: 100, height: 100, fit: BoxFit.cover),)|
+|  Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` | A gift box |  In home.dart Container( width: 200, height: 200 |
+|  Text  | A widget to display text on the screen. | `Text('Hello')` | A label |  Text('Welcome to\nMy', |
+|  Image.network | A widget to show an image using a link from the internet. | `Image.network('https://...')` | Viewing a photo online | Image.network('https://thumb.ac-illust.com/8b/8b8dc0f7cfb9b8bc5512950bb51e996c_t.jpeg', |
+|  ElevatedButton | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` | Doorbell | ElevatedButton(onPressed: () => Navigator.pushNamed(context, '/background'), child: const Text('Next'), ), |
+| onPressed | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` | Light Switch | onPressed: () => Navigator.pushNamed(context, '/background'), |
+| StainlessWidget | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` | A printed photo | class HomeScreen extends StatelessWidget { const HomeScreen({super.key}); |
 |   StatefulWidget   | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
 |   Navigator   | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
 |   Padding   | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
