@@ -78,8 +78,8 @@
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
-| Main | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | Anything that can start | In main.dart, void.main() => runApp(MyPortfolioApp()); |
-|  MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  | return MaterialApp(debugShowCheckedModeBanner: false, title: 'TSA Portfolio', theme: ThemeData(|
+| Main| A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | Anything that can start | In main.dart, void.main() => runApp(MyPortfolioApp()); |
+|  MaterialApp| The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  | return MaterialApp(debugShowCheckedModeBanner: false, title: 'TSA Portfolio', theme: ThemeData(|
 |   Scaffold   | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  In home.dart, return Scaffold(body: Center |
 |   Columnn   | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  | In home.dart (Column mainAxisAlignment: MainAxisAlignment.center, children: [ |
 |  Row  | A widget that shows things side-by-side. | `Row(...)` | People sitting side by side | Row(children: [ ClipRRect( borderRadius: BorderRadius.circular(8),child: Image.network(imageUrl, width: 100, height: 100, fit: BoxFit.cover),)|
@@ -111,47 +111,47 @@
 
 |------|------------|--------------------------|-------------------|-------------|
 
-| Variable | A named container used to store a value that may change. | `var x = 5;` | Score | main.dart title: TSA Portfilio|
+|Variable| A named container used to store a value that may change. | `var x = 5;` | Score | main.dart title: TSA Portfilio|
 
-| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | PI Value |main.dart, const MyPortFilioApp (super.key)); |
+|Constant|A fixed value that cannot change once set. | `const PI = 3.14;` | PI Value |main.dart, const MyPortFilioApp (super.key)); |
 
-| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Video File | main.dart, bool, debugShowCheckedModeBanner: false, |
+|Data Type|The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Video File | main.dart, bool, debugShowCheckedModeBanner: false, |
 
-| String | A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  | Button label |
+|String|A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  | Button label |
 
-| Integer | Whole number values. | `int age = 16;` | A streak | Number of likes |
+|Integer|Whole number values. | `int age = 16;` | A streak | Number of likes |
 
-| Double | Number values with decimals. | `double age = 16.2;` | Calculator  | App rating |
+|Double|Number values with decimals. | `double age = 16.2;` | Calculator  | App rating |
 
-| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? | Dark mode on/off |
+|Boolean|A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? | Dark mode on/off |
 
-| List | A collection of values in a specific order. | `List<String> names = [];` | Grocery List | Recent Searches  |
+|List|A collection of values in a specific order. | `List<String> names = [];` | Grocery List | Recent Searches  |
 
-| Null | A special value that means “nothing.” | `String? name = null;` | Search Bar | No profile picture |
+|Null|A special value that means “nothing.” | `String? name = null;` | Search Bar | No profile picture |
 
-| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on a light | Submit button action  |
+|Function|A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on a light | Submit button action  |
 
-| Parameter | The information passed into a function to change how it works. | `greet(String name)` | Name in a greeting | Username input |
+|Parameter|The information passed into a function to change how it works. | `greet(String name)` | Name in a greeting | Username input |
 
-| Return | The result a function gives back. | `return total;` | Total bill | Search results |
+|Return|The result a function gives back. | `return total;` | Total bill | Search results |
 
-| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Room access | In-app notifications |
+|Scope|Where a variable or function can be used. | (No set syntax — concept-based) | Room access | In-app notifications |
 
-| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Car model design | User profile structure  |
+|Class|Blueprint for creating objects with specific structure and behavior.|`class Dog {}`|Car model design|User profile structure|
 
-| Object | A specific version of a class. | `Dog myDog = Dog();` | Any object | Logged-in user |
+|Object|A specific version of a class.|`Dog myDog = Dog();`|Any object|Logged-in user|
 
-| Property | A variable that belongs to a class/object. | `String name;` | Nickname | Username |
+|Property|A variable that belongs to a class/object.|`String name;`|Nickname|Username|
 
-| Method | A function that belongs to a class. | `void bark() {}` | Cookie being eaten | Logout function in app |
+|Method|A function that belongs to a class.|`void bark() {}`|Cookie being eaten|Logout function in app|
 
-| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | Building foundation | Intializing user profile |
+|Constructor|A special function used to set up a class when it’s created.|`Dog(this.name);`|Building foundation|Intializing user profile|
 
-|  Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | |  |
+|Abstraction|Hiding the inner workings of code so users only interact with what they need.| (Concept — not specific code)|a|a|
 
-| Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+|Override|Changing how a built-in or inherited function behaves.|`@override`|a|a|
 
-|  Void  | A function that does not return a value. | `void printMessage() {}` |  |  |
+|Void|A function that does not return a value.|`void printMessage() {}`|a|a|
 
 
 
