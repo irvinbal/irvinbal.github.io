@@ -153,6 +153,12 @@
 
 |Void|A function that does not return a value.|`void printMessage() {}`|a|a|
 
+| Overloaded method/function or constructor | Uses the same name, but has different parameters | Pizza(), Pizza(String toppings) 2 constructors, first is a default cheese pizza, 2nd has 1 topping | | |
+
+| dot notation | Methods are called on objects using a dot after the object name | object.method(value);| | |
+
+| Concatenate | To combine Strings with other Strings and/or variables | String greeting = "Hello" + "My name is " + name ". "; | | |
+
 
 
 
