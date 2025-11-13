@@ -111,53 +111,59 @@
 
 |------|------------|--------------------------|-------------------|-------------|
 
-|Variable| A named container used to store a value that may change. | `var x = 5;` | Score | main.dart title: TSA Portfilio|
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
 
-|Constant|A fixed value that cannot change once set. | `const PI = 3.14;` | PI Value |main.dart, const MyPortFilioApp (super.key)); |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 
-|Data Type|The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Video File | main.dart, bool, debugShowCheckedModeBanner: false, |
+| Variable | A named container used to store a value that may change. | `var x = 5;` | Score | main.dart title: TSA Portfilio |
 
-|String|A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  | Button label |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | PI Value | main.dart, const MyPortFilioApp (super.key)); |
 
-|Integer|Whole number values. | `int age = 16;` | A streak | Number of likes |
+| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Video File | main.dart, bool, debugShowCheckedModeBanner: false, |
 
-|Double|Number values with decimals. | `double age = 16.2;` | Calculator  | App rating |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | Navigation Text  | Button label |
 
-|Boolean|A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? | Dark mode on/off |
+| Integer | Whole number values. | `int age = 16;` | A streak | Number of likes |
 
-|List|A collection of values in a specific order. | `List<String> names = [];` | Grocery List | Recent Searches  |
+| Double | Number values with decimals. | `double age = 16.2;` | Calculator  | App rating |
 
-|Null|A special value that means “nothing.” | `String? name = null;` | Search Bar | No profile picture |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is this device trusted? | Dark mode on/off |
 
-|Function|A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on a light | Submit button action  |
+| List | A collection of values in a specific order. | `List<String> names = [];` | Grocery List | Recent Searches  |
 
-|Parameter|The information passed into a function to change how it works. | `greet(String name)` | Name in a greeting | Username input |
+| Null | A special value that means “nothing.” | `String? name = null;` | Search Bar | No profile picture |
 
-|Return|The result a function gives back. | `return total;` | Total bill | Search results |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on a light | Submit button action  |
 
-|Scope|Where a variable or function can be used. | (No set syntax — concept-based) | Room access | In-app notifications |
+| Parameter | The information passed into a function to change how it works. | `greet(String name)` | Name in a greeting | Username input |
 
-|Class|Blueprint for creating objects with specific structure and behavior.|`class Dog {}`|Car model design|User profile structure|
+| Return | The result a function gives back. | `return total;` | Total bill | Search results |
 
-|Object|A specific version of a class.|`Dog myDog = Dog();`|Any object|Logged-in user|
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Room access | In-app notifications |
 
-|Property|A variable that belongs to a class/object.|`String name;`|Nickname|Username|
+| Class | Blueprint for creating objects with specific structure and behavior.| `class Dog {}`|Car model design|User profile structure|
 
-|Method|A function that belongs to a class.|`void bark() {}`|Cookie being eaten|Logout function in app|
+| Object | A specific version of a class.| `Dog myDog = Dog();`| Any object | Logged-in user |
 
-|Constructor|A special function used to set up a class when it’s created.|`Dog(this.name);`|Building foundation|Intializing user profile|
+| Property | A variable that belongs to a class/object.| `String name;`| Nickname | Username |
 
-|Abstraction|Hiding the inner workings of code so users only interact with what they need.| (Concept — not specific code)|a|a|
+| Method | A function that belongs to a class.| `void bark() {}` | Cookie being eaten | Logout function in app |
 
-|Override|Changing how a built-in or inherited function behaves.|`@override`|a|a|
+| Constructor | A special function used to set up a class when it’s created.|`Dog(this.name);`|Building foundation|Intializing user profile|
 
-|Void|A function that does not return a value.|`void printMessage() {}`|a|a|
+| Abstraction | Hiding the inner workings of code so users only interact with what they need.| (Concept — not specific code)|a|a|
+
+| Override | Changing how a built-in or inherited function behaves.|`@override`|a|a|
+
+| Void | A function that does not return a value.|`void printMessage() {}`|a|a|
 
 | Overloaded method/function or constructor | Uses the same name, but has different parameters | Pizza(), Pizza(String toppings) 2 constructors, first is a default cheese pizza, 2nd has 1 topping | | |
 
 | dot notation | Methods are called on objects using a dot after the object name | object.method(value);| | |
 
 | Concatenate | To combine Strings with other Strings and/or variables | String greeting = "Hello" + "My name is " + name ". "; | | |
+
+
 
 
 
