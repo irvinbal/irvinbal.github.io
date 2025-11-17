@@ -8,6 +8,8 @@
 - [Definitions with Structures](#flutter-definitions-with-structures)
 -  [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+- [String_notes](#string-notes)
+- [String Methods Table](#string-methods-table)
   
 
 ## Flutter Notes
