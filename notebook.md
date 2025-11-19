@@ -8,7 +8,7 @@
 - [Definitions with Structures](#flutter-definitions-with-structures)
 -  [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-- [String_notes](#string-notes)
+- [String-notes](#string-notes)
 - [String Methods Table](#string-methods-table)
   
 
@@ -110,7 +110,6 @@
 ## Code Definitions
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
-
 |------|------------|--------------------------|-------------------|-------------|
 | Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
 | Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
@@ -140,7 +139,7 @@
 | Concatenate | To combine Strings with other Strings and/or variables | String greeting = "Hello" + "My name is " + name ". "; | | |
 | Index | The numeric value of the location of a value in a list, starting at 0 in Java | Ex. 'e' is index 1 in "Hello" | | |
 
-[String_notes](#string-notes)
+[String-notes](#string-notes)
 ### String Notes
 - Strings have indices (plural for index,) which start at 0. "Hello" has indices 0(H), 1(e), 2(1), 3(1), 4(o).
 - Final index location is length-1
