@@ -20,9 +20,12 @@ Required Gross Annual Salary (with cushion): $87,195
 
 Career Options & Alignment:
 
-HVAC Tech	$59,810	Trade school or apprenticeship	Repair skills, technical knowledge, tool use	Hands-on work and problem-solving	Problem-solving
-Electrician $61,391 High school diploma + 4–5 year apprenticeship program. Circuit knowledge, safety compliance, critical thinking, diagnostics 
+HVAC Tech	$59,810	Trade school or apprenticeship. Repair skills, technical knowledge, tool use	Hands-on work and problem-solving
+
+Electrician $61,391 High school diploma + 4–5 year apprenticeship program. Circuit knowledge, safety compliance, critical thinking, diagnostics
+
 Plumber $62,970 4–5 year apprenticeship; state licensing required. Pipefitting, Blueprint analysis, System design
+
 Flooring Installation $50,118 High school diploma; informal on-the-job training or brief apprenticeship. Pattern layout, math/measurement, physical stamina, detail orientation. 
 
 Top Career Choice:
