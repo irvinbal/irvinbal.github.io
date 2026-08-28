@@ -12,13 +12,15 @@ I like to listen to music and play video games with my friends. One of my goals 
 
 I plan to live in Los Angeles, California, USA in a 2 Room 2 Bathroom Apartment, which I would rent. I'll drive an 2022 Infiniti Q60, I will pay the Insurance (180-280$), Fuel (205-280$), Monthly Payment (389-$812) per month. Utilities (electric, water, internet) will cost around 150$ to 280$ combined per month, Groceries $350, and Health insurance about $488. I'll spend on entertainment ($200 per month). I will set aside 400$ monthly.
 
-Estimated Costs:
+**Estimated Costs:**
 
 Estimated Monthly Cost: $5,813
+
 Estimated Annual Cost: $69,756
+
 Required Gross Annual Salary (with cushion): $87,195 
 
-Career Options & Alignment:
+**Career Options & Alignment:**
 
 HVAC Tech	$59,810	Trade school or apprenticeship. Repair skills, technical knowledge, tool use	Hands-on work and problem-solving
 
