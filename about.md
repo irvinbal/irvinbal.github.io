@@ -28,7 +28,8 @@ Plumber $62,970 4–5 year apprenticeship; state licensing required. Pipefitting
 
 Flooring Installation $50,118 High school diploma; informal on-the-job training or brief apprenticeship. Pattern layout, math/measurement, physical stamina, detail orientation. 
 
-Top Career Choice:
+
+**Top Career Choice:**
 
 HVAC Technician is my current top choice because the mechanical and electrical systems has always intrigued me and it’s benefits are very good. This job connects to my lifestyle goals since it provides a lot of money to fund these lifestyle goals like entertainment and the other stuff I will need. The skills from this course would help me succeed because the technical skills connect directly to HVAC systems and the collaboration and project management skills from teams prepares me for this job aswell.
 
