@@ -20,6 +20,8 @@ Estimated Annual Cost: $69,756
 
 Required Gross Annual Salary (with cushion): $87,195 
 
+
+
 **Career Options & Alignment:**
 
 HVAC Tech	$59,810	Trade school or apprenticeship. Repair skills, technical knowledge, tool use	Hands-on work and problem-solving
