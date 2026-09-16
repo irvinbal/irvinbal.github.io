@@ -30,14 +30,21 @@ This ensures your notes are easy for you (and others) to read later.
 
 ## Blocks
 Hat Block: A stack of blocks in which they're shaped to attach blocks that are below them.
+
 Stack / Command Block: Performs main commands. Shaped to attach above or below other stack blocks.
-C-Block: Loops a block within them or checks
-if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+
+C-Block: Loops a block within them or checks if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+
 Reporter / Oval Block: Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+
 Boolean / Hexagonal Block: Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
-Repeat Block: 
+
+Repeat Block:
+
 Wait Until Block:
+
 If Then Block:
+
 Forever Block:	
 ## Concepts
 
