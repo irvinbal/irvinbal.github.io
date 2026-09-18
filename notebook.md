@@ -13,7 +13,7 @@
   - [Headings](#headings)
 
   - [Text Formatting](#text-formatting)
-
+  
 
 
  Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
