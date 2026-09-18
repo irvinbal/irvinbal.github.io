@@ -29,24 +29,28 @@ Follow this guide to keep your coding notebook **clear, consistent, and professi
 This ensures your notes are easy for you (and others) to read later.
 
 ## Blocks
-Hat Block: A stack of blocks in which they're shaped to attach blocks that are below them.
+Hat Block: Hat shaped, A stack of blocks in which they're shaped to attach blocks that are below them, Starts a script whenever something triggers it, always goes at the top at start. "when started"
 
-Stack / Command Block: Performs main commands. Shaped to attach above or below other stack blocks.
+Stack / Command Block: Rectangle with a notch and bump, Performs main commands. Shaped to attach above or below other stack blocks. "drive forward"
 
-C-Block: Loops a block within them or checks if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+C-Block: Shaped like the letter C, Loops a block within them or checks if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them. "repeat <0>"
 
-Reporter / Oval Block: Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+Reporter / Oval Block: Oval with rounded ends, Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks. "distance from Distance Sensor in mm"
 
-Boolean / Hexagonal Block: Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+Boolean / Hexagonal Block: Hexagonal with pointed sides, Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
 
-Repeat Block:
+Repeat Block: C-Shaped control block and it runs any blocks placed inside for a set number of times. "repeat [4]"
 
-Wait Until Block:
+Wait Until Block: Stack block with hexagon shape, it pauses the program on the line until a Boolean gives a response. "wait until Bumper Pressed"
 
-If Then Block:
+If Then Block: C shaped control block, Checks a condition if it's true and runs the code then it'll give a response. " if <example> then [example]
 
-Forever Block:	
+Forever Block: C shaped block without a bottom notch, Loops the code inside continuously until the project is manually stopped. "forever"
+
 ## Concepts
+
+
+
 
 ## Headings
 
