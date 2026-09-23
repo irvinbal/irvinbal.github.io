@@ -12,4 +12,4 @@ Click here to learn more → [About Me](about.md)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook](cs2-notebook.md)
+Click here to go to my notebook → [CS2 Notebook](cs2-notebook.md)
